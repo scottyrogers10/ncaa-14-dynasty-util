@@ -1,0 +1,16 @@
+{
+	"name": "dynasty-util",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node src/index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Scotty Rogers",
+	"license": "ISC",
+	"dependencies": {
+		"csv-parse": "^4.16.0",
+		"json2csv": "^5.0.6",
+		"scr-pipe": "^1.0.4"
+	}
+}

@@ -1,0 +1,69 @@
+const TWO_BAR = 0;
+const THREE_BAR = 1;
+const SPEED_3_BAR = 2;
+const FULL_CAGE_1 = 3;
+const HALF_CAGE_1 = 4;
+const ROBOT_RB = 5;
+const KICKER = 6;
+const ROBOT = 15;
+const THREE_BAR_RB = 16;
+const SPEED_ROBOT_2 = 17;
+const THREE_BAR_RB_JAGGED = 18;
+const ION_3_BAR = 19;
+const SPEED_3_BAR_LB = 20;
+const SPEED_3_BAR_RB = 21;
+const FULL_CAGE_2 = 22;
+const FULL_CAGE_ROBOT = 23;
+const HALF_CAGE_2 = 24;
+const DNA_1 = 25;
+const DNA_2 = 26;
+const DNA_3 = 27;
+const DNA_4 = 28;
+const DNA_5 = 29;
+const DNA_6 = 30;
+const SPEED_ROBOT = 33;
+const SPEED_FULL_CAGE = 34;
+const BULLDOG = 38;
+const DNA_ROPO_SW = 39;
+const DNA_ROPO_SW_2 = 40;
+const ION_FULL_CAGE_2 = 42;
+const ION_FULL_CAGE = 43;
+const ION_3_BAR_RB = 44;
+const ION_ROBOT_RB = 45;
+const ION_2_BAR = 46;
+
+module.exports = {
+	TWO_BAR,
+	THREE_BAR,
+	SPEED_3_BAR,
+	FULL_CAGE_1,
+	HALF_CAGE_1,
+	ROBOT_RB,
+	KICKER,
+	ROBOT,
+	THREE_BAR_RB,
+	SPEED_ROBOT_2,
+	THREE_BAR_RB_JAGGED,
+	ION_3_BAR,
+	SPEED_3_BAR_LB,
+	SPEED_3_BAR_RB,
+	FULL_CAGE_2,
+	FULL_CAGE_ROBOT,
+	HALF_CAGE_2,
+	DNA_1,
+	DNA_2,
+	DNA_3,
+	DNA_4,
+	DNA_5,
+	DNA_6,
+	SPEED_ROBOT,
+	SPEED_FULL_CAGE,
+	BULLDOG,
+	DNA_ROPO_SW,
+	DNA_ROPO_SW_2,
+	ION_FULL_CAGE_2,
+	ION_FULL_CAGE,
+	ION_3_BAR_RB,
+	ION_ROBOT_RB,
+	ION_2_BAR,
+};

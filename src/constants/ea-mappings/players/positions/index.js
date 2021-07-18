@@ -1,0 +1,23 @@
+const QB = 0;
+const HB = 1;
+const FB = 2;
+const WR = 3;
+const TE = 4;
+const LT = 5;
+const LG = 6;
+const C = 7;
+const RG = 8;
+const RT = 9;
+const LE = 10;
+const RE = 11;
+const DT = 12;
+const LLB = 13;
+const MLB = 14;
+const RLB = 15;
+const CB = 16;
+const FS = 17;
+const SS = 18;
+const K = 19;
+const P = 20;
+
+module.exports = { QB, HB, FB, WR, TE, LT, LG, C, RG, RT, LE, RE, DT, LLB, MLB, RLB, CB, FS, SS, K, P };
